@@ -1,0 +1,950 @@
+Order name,Day,Shipping region,Shipping city,Total sales (last click),First order referring channel,Order UTM campaign,Referring channel,UTM campaign name,Notes,Found on shopify or zoho
+#83408,29-07-2026,Maharashtra,Kankavli,32394,bing,,bing,,,
+#83385,29-07-2026,Delhi,Delhi,3199,chatgpt.com,,chatgpt.com,,,
+#83404,29-07-2026,Maharashtra,Mumbai,6998,direct,,direct,,actual direct visit,
+#83410,29-07-2026,Maharashtra,Mumbai,6999,direct,,direct,,,
+#83409,29-07-2026,Mizoram,Aizawl,4499.1,Google,Pmaxbleeders_20714640181,direct,,,
+#83401,29-07-2026,Maharashtra,Mumbai,6749.1,direct,,direct,,,
+#83394,29-07-2026,Karnataka,Bengaluru,5039.1,Google,Pmaxbleeders_20714640181,direct,,,
+#83407,29-07-2026,Tamil Nadu,Thanjavur,4265.1,Google,LightingSearchaimax,direct,,,
+#83388,29-07-2026,Karnataka,Bengaluru,4193.1,direct,,direct,,,
+#83399,29-07-2026,Telangana,Hyderabad,6799,Google,Pmaxbleeders_20714640181,direct,,,
+#83384,29-07-2026,Madhya Pradesh,Bhopal,9719.1,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83411,29-07-2026,Karnataka,Bangalore,3225,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,
+#83403,29-07-2026,Uttar Pradesh,Noida,6299.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83396,29-07-2026,Rajasthan,Bichhawari,26499,direct,,direct,,,
+#83397,29-07-2026,Uttarakhand,Rishikesh,10349.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,
+#83395,29-07-2026,Rajasthan,Bichhawari,24598,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83405,29-07-2026,Maharashtra,Mumbai,18809.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83387,29-07-2026,Nagaland,Dimapur,7109.1,instagram,,,,,
+#83380,29-07-2026,Gujarat,Surat,14998,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83381,29-07-2026,Haryana,Gurugram,1839,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,
+#83398,29-07-2026,Gujarat,Surat,4307,razorpay,,razorpay,,,
+#83400,29-07-2026,Uttarakhand,Haldwani,12578.3,fb,,fb,,679536 this is cx visitor id it shows different location in visits and visitors data on zoho need to be checked,zoho sales iq
+#83389,29-07-2026,Uttar Pradesh,Noida,16913.3,fb ,Search brand,fb,Search brand," 368273cx could be, first visit 26 july",zoho sales iq
+#83382,29-07-2026,Himachal Pradesh,SUNDARNAGAR,4799,Amazon,,Amazon,,,
+#83392,29-07-2026,Telangana,"Hyderabad,",13909.4,google,search_brand_18098202173,google,search_brand_18098202173,,
+#83406,29-07-2026,Maharashtra,Mumbai,5949.15,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,cx name clarinda not able to find visiter id need to be confirmed,zoho sales iq
+#83383,29-07-2026,Maharashtra,Mumbai,10538.3,direct ,,direct,,could be cx 379613 need to be confirmed,zoho sales iq
+#83402,29-07-2026,Maharashtra,Mumbai,2199,google,lightingshopping_21285710791,google,lightingshopping_21285710791,could be cx 778884 but he visited on 22 july the order is on 29 need to be confirmed,
+#83386,29-07-2026,Andhra Pradesh,Kolanukonda,7054.15,,,,,existing cx no track,
+#83390,29-07-2026,Karnataka,BENGALURU,11644.15,google,lightingshopping_21285710791,direct,,cx id 305209 very sure justneed to be confirmed,zoho sales iq
+#83446,30/07/2026,Karnataka,Bengaluru,31582.8,referal,,direct,,,zoho sales iq
+#83455,30/07/2026,Maharashtra,Mumbai,7798,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#83450,30/07/2026,Gujarat,Ahmedabad,5399,direct,,direct,,,zoho sales iq
+#83451,30/07/2026,Gujarat,Ahmedabad,6099,direct,,direct,,,zoho sales iq
+#83452,30/07/2026,Gujarat,Ahmedabad,2099,direct,,direct,,,zoho sales iq
+#83453,30/07/2026,Gujarat,Ahmedabad,5399,direct,,direct,,,zoho sales iq
+#83413,30/07/2026,Tamil Nadu,Chennai,13318.2,google,LightingSearchaimax,direct,,,zoho sales iq
+#83443,30/07/2026,Maharashtra,Mumbai,20056.6,direct,,,,,zoho sales iq
+#83445,30/07/2026,Maharashtra,Pimpri-Chinchwad,6199,facebook,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83418,30/07/2026,Delhi,New Delhi,17998.2,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83449,30/07/2026,Karnataka,BENGALURU,33698,direct,,google,Search_Brand_18098202173,,shopify
+#83454,30/07/2026,Maharashtra,Thane,5299,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83426,30/07/2026,Haryana,Faridabad,9398,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83415,30/07/2026,Karnataka,Bengaluru,6119.1,direct,,google,LightingShopping_21285710791,,shopify
+#83412,30/07/2026,Kerala,TIRUR,3149.1,google,,google,,,shopify
+#83457,30/07/2026,Mizoram,Aizawl,10099,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83422,30/07/2026,Karnataka,Bangalore,2629.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83444,30/07/2026,Maharashtra,Ambad,3149.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83414,30/07/2026,Karnataka,Bengaluru,2999,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83419,30/07/2026,Telangana,"Bandlaguda Jagir, Sikenderguda",4589.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83433,30/07/2026,Karnataka,Bengaluru,4199,google,,direct,,,shopify
+#83440,30/07/2026,Maharashtra,Mumbai South,11642.45,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#83435,30/07/2026,Maharashtra,Nashik,8754.15,google,lightingshopping_21285710791,direct,,"Visitor 48294
+need to be confirmed",zoho sales iq
+#83423,30/07/2026,Maharashtra,Mumbai,2639.2,direct ,,direct,,,zoho sales iq
+#83441,30/07/2026,Karnataka,Bangalore,28598,google,,direct,,,shopify
+#83417,30/07/2026,Karnataka,Bengaluru,16287.3,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83425,30/07/2026,Delhi,Delhi,41734.15,google,lightingshopping_21285710791,google,lightingshopping_21285710791,533536 nedd to be confirmed,zoho sales iq
+#83436,30/07/2026,Manipur,Imphal,3149.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83437,30/07/2026,Uttarakhand,Nainital,3967,Tata,,Tata,,,shopify
+#83424,30/07/2026,Karnataka,BENGALURU,2799,Amazon,,Amazon,,,shopify
+#83439,30/07/2026,Karnataka,Bengaluru,17846.6,Google Search Engine,,google,lightingshopping_21285710791,,zoho sales iq
+#83431,30/07/2026,Delhi,Delhi,23579.1,,,,,176096,zoho sales iq
+#83420,30/07/2026,Maharashtra,HAVELI,2927,Tata,,Tata,,,shopify
+#83447,30/07/2026,Karnataka,Bengaluru,22269.15,google,pmaxlightingnc_16828666790,Referral,,,zoho sales iq
+#83416,30/07/2026,Karnataka,BENGALURU,5999,Amazon,,Amazon,,,shopify
+#83434,30/07/2026,Chandigarh,chandigarh,5694.15,,,,,,zoho sales iq
+#83438,30/07/2026,Uttarakhand,Nainital,3967,Tata,,Tata,,,shopify
+#83442,30/07/2026,Punjab,Ludhiana,5939.1,direct,,facebook,,last visit from PB is 19 july,zoho sales iq
+#83421,30/07/2026,Delhi,Delhi,2251.45,Tata,,Tata,,,shopify
+#83456,30/07/2026,Maharashtra,Mumbai,17999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83448,30/07/2026,Karnataka,Varthur,12407.45,google,,Referral,, #83448 need to be confirmed,zoho sales iq
+#83458,31/07/2026,West Bengal,Kolkata,19349.1,google,shoppingindexdecor_23361314596,direct,,,zoho sales iq
+#83473,31/07/2026,#N/A,#N/A,3043.8,direct,,Referral,,,zoho sales iq
+#83476,31/07/2026,Maharashtra,"Kalina, Mumbai",31317.3,direct,,direct,,,zoho sales iq
+#83460,31/07/2026,Tamil Nadu,Chennai,3199,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#83478,31/07/2026,Rajasthan,Jaipur,4499.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83462,31/07/2026,West Bengal,Kolkata,16198.2,google,,google,,,shopify
+#83465,31/07/2026,Gujarat,Veraval,5759.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83466,31/07/2026,Karnataka,Bengaluru,5899,direct,,direct,,,shopify
+#83479,31/07/2026,Karnataka,Bangalore,20596,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83459,31/07/2026,Maharashtra,Mumbai,14758.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83467,31/07/2026,Karnataka,Bangalore,6699,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83477,31/07/2026,Madhya Pradesh,Indore,9538.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83463,31/07/2026,Gujarat,Ahmedabad,7369,Tata,,Tata,,,zoho sales iq
+#83474,31/07/2026,Telangana,Hyderabad,5857,Tata,,Tata,,,zoho sales iq
+#83464,31/07/2026,Uttar Pradesh,Noida,7308.3,facebook,catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83475,31/07/2026,Karnataka,Kithiganur,60518.3,Referral,,direct,,,zoho sales iq
+#83461,31/07/2026,Haryana,"GURUGRAM,",16630,Tata,,Tata,,,zoho sales iq
+#83480,31/07/2026,Goa,"Marra, Candolim",2809.1,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,zoho sales iq
+#83468,31/07/2026,Haryana,Gurgaon,4674.15,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83471,31/07/2026,Delhi,Delhi,11000,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#83470,31/07/2026,West Bengal,Murshidabad,21239.1,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#83481,01/08/2026,Haryana,Faridabad,7069,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83482,01/08/2026,Tamil Nadu,Chennai,14847.3,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,zoho sales iq
+#83484,01/08/2026,Tamil Nadu,CHENNAI,19618.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83483,01/08/2026,Karnataka,BENGALURU,8099,Amazon,,Amazon,,,zoho sales iq
+#83486,01/08/2026,Karnataka,Bangalore,39096.6,Referral,,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83485,01/08/2026,Telangana,Hyderabad,7369,Tata,,Tata,,,zoho sales iq
+#83488,01/08/2026,Maharashtra,Mumbai,9898,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#83487,01/08/2026,Uttar Pradesh,shankerganj,3683,Tata,,Tata,,,zoho sales iq
+#83489,01/08/2026,Haryana,Sonipat,3059.15,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83492,01/08/2026,#N/A,#N/A,5899,direct,1,direct,,,zoho sales iq
+#83491,01/08/2026,Uttarakhand,Rishikesh,3239.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83490,01/08/2026,Rajasthan,Jaipur,6099,instagram,041126_Advantage,instagram,041126_Advantage,,shopify
+#83494,01/08/2026,Gujarat,Ahmedabad,2899.1,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83493,01/08/2026,Haryana,FARIDABAD,3739.15,direct,,direct,,,zoho sales iq
+#83496,01/08/2026,Tamil Nadu,Chennai,5099,direct,,direct,,,zoho sales iq
+#83495,01/08/2026,Uttarakhand,Mussoorie,8998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83497,01/08/2026,Delhi,delhi,8583.3,google,shoppingindexdecor_23361314596,direct,,,zoho sales iq
+#83499,01/08/2026,Chandigarh,Chandigarh,14000,Referral,,direct,,,zoho sales iq
+#83502,01/08/2026,Maharashtra,Aurangabad,13915.35,,,,,,zoho sales iq
+#83501,01/08/2026,Gujarat,Ahmedabad,65685.75,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#83500,01/08/2026,Nagaland,Dimapur,6199,Amazon,,Amazon,,,zoho sales iq
+#83503,01/08/2026,Karnataka,Bangalore,6999,direct,,direct,,,zoho sales iq
+#83504,01/08/2026,Karnataka,Bangalore,9089.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83505,01/08/2026,Karnataka,Dharwad,2449.1,direct,,google,Search_Brand_18098202173,,shopify
+#83506,02/08/2026,Uttar Pradesh,Faizabad,4769.1,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83508,02/08/2026,Delhi,New Delhi,12198,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83509,02/08/2026,Delhi,New Delhi,26998,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83507,02/08/2026,Ladakh,Leh,29997,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83510,02/08/2026,Karnataka,Bengaluru,5399,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83511,02/08/2026,Karnataka,Bengaluru,19548.3,direct,,direct,,,zoho sales iq
+#83512,02/08/2026,Gujarat,Anjar,3499,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83513,02/08/2026,Tamil Nadu,Chennai,45809.05,direct,,direct,,,zoho sales iq
+#83521,02/08/2026,Uttar Pradesh,Gautam Buddha Nagar,1611,direct,,direct,,,zoho sales iq
+#83518,02/08/2026,Gujarat,Ahmedabad,21196,google,,google,,,shopify
+#83520,02/08/2026,Karnataka,Bengaluru,4599,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,,shopify
+#83514,02/08/2026,Karnataka,Bangalore,3305,Tata,,Tata,,,zoho sales iq
+#83519,02/08/2026,Karnataka,Bangalore,6288.3,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,zoho sales iq
+#83515,02/08/2026,Karnataka,Bangalore,3305,Tata,,Tata,,,zoho sales iq
+#83516,02/08/2026,Rajasthan,Jaipur,6613,Tata,,Tata,,,zoho sales iq
+#83517,02/08/2026,Madhya Pradesh,Indore,7274,Tata,,Tata,,,zoho sales iq
+#83522,02/08/2026,Delhi,New Delhi,9089.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83523,02/08/2026,Karnataka,Bengaluru,4859.1,Referral,,direct,,,zoho sales iq
+#83524,02/08/2026,Gujarat,Ahmedabad,5939.1,instagram,,instagram,,,shopify
+#83525,02/08/2026,Maharashtra,Mumbai,2999,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,,shopify
+#83526,02/08/2026,Delhi,New Delhi,6204.15,,,,,,zoho sales iq
+#83528,02/08/2026,Uttarakhand,Dehradun,12329.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83527,02/08/2026,Telangana,Hyderabad,6299.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,,,shopify
+#83529,02/08/2026,Uttar Pradesh,Noida,16199.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83530,02/08/2026,Haryana,Gurgaon,4499.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83532,02/08/2026,Telangana,Hyderabad,7918.2,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83531,02/08/2026,Delhi,Delhi,7559.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83533,02/08/2026,Delhi,New Delhi,3199,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83554,03/08/2026,West Bengal,Kolkata,2989.1,google,,direct,,,
+#83558,03/08/2026,Maharashtra,Mumbai,11519.1,google,PMaxLightingNC_16828666790,direct,,,
+#83574,03/08/2026,Maharashtra,Pune,5038.2,Bing,,direct,,,
+#83545,03/08/2026,Haryana,Gurugram,5556,google,LightingSearchaimax,direct,,,
+#83534,03/08/2026,Kerala,Pathanamthitta,22846.5,Google,,direct,,,
+#83549,03/08/2026,Maharashtra,Mumbai,14130.9,direct,,direct,,,
+#83557,03/08/2026,Karnataka,Bengaluru,20878.2,direct,,direct,,,
+#83569,03/08/2026,Uttar Pradesh,Kanpur,10618.2,google,PMaxLightingNC_16828666790,direct,,,
+#83563,03/08/2026,Odisha,Bhubaneswar,12238.2,google,Search_Brand_18098202173,direct,,,
+#83539,03/08/2026,Maharashtra,Mumbai,26454.6,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,
+#83561,03/08/2026,Maharashtra,Mumbai,8899,direct,,direct,,,
+#83541,03/08/2026,Punjab,Jalandhar,3099,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83572,03/08/2026,West Bengal,Kolkata,3799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,
+#83570,03/08/2026,Karnataka,Bengaluru,9598,google,,direct,,,
+#83542,03/08/2026,Maharashtra,Mumbai,2999,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,
+#83573,03/08/2026,Delhi,New Delhi,14597,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,
+#83564,03/08/2026,Maharashtra,Mumbai,20397,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,
+#83553,03/08/2026,Delhi,DELHI,10439.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,
+#83544,03/08/2026,Goa,Guirim,2399,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,
+#83537,03/08/2026,Goa,panaji,3199,google,,direct,,,
+#83548,03/08/2026,Kerala,Kozhikode,9699,google,,google,,,
+#83571,03/08/2026,Punjab,Mohali,5699,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,
+#83562,03/08/2026,Maharashtra,Mumbai,7018.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,
+#83560,03/08/2026,Uttar Pradesh,Meerut,3399,instagram,,,,,
+#83567,03/08/2026,Delhi,new delhi,11134.15,google,search_brand_18098202173,direct,,,
+#83552,03/08/2026,Haryana,Gurgaon,2409.15,google,shoppingindexdecor_23361314596,direct,,,
+#83568,03/08/2026,West Bengal,Kolkata,2719.1,Facebook,,Facebook,,,
+#83538,03/08/2026,Uttar Pradesh,Noida,16108,Tata,,Tata,,,
+#83536,03/08/2026,Kerala,ERNAKULAM,15599,Amazon,,Amazon,,,
+#83559,03/08/2026,Tamil Nadu,Chennai,6204.15,Facebook ,,Facebook ,,,
+#83565,03/08/2026,Gujarat,Ahmedabad,4399,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,
+#83540,03/08/2026,Maharashtra,Mumbai,4929.15,Facebook ,072926_advantage+catalog_terracotta_decor_cbo_asc_evergreen_120246907043390384,Facebook ,072926_advantage+catalog_terracotta_decor_cbo_asc_evergreen_120246907043390384,740774 need to be confirmed,
+#83551,03/08/2026,Kerala,palakkad,5268.3,Facebook ,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook ,,,
+#83550,03/08/2026,Karnataka,Koramangala,11359.4,google search term,,google,shoppingindexdecor_23361314596,,
+#83547,03/08/2026,Maharashtra,"Kandivali East, Mumbai",12748.3,,,,,"2597e70c-5026-416f-b501-1c983d55ae40_a130        Jul 31, 7:35 PM        Mumbai        ~66 hrs (2.75 days) before        1
+2        ed3b21a3-646f-4c79-bad2-21c4ec79ebd5_a130        Jul 31, 4:07 PM        Mumbai        ~70 hrs before        1
+3        f19ed8b7-ce4d-4627-b5d2-a2b44989bbf3_a130        Jul 31, 1:23 PM        Mumbai        ~73 hrs before        1
+4        eb2f9006-5351-4bbb-b756-a9e771446b3e_a129        Jul 31, 1:03 PM        Panipat, Haryana        ~73 hrs before        3
+5        7b3e0766-4bbd-442c-a798-8b19e6f7c78b_a130        Jul 30, 3:48 PM        Mumbai        ~94 hrs before        1",
+#83566,03/08/2026,Gujarat,Baroda,1036.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,
+#83535,03/08/2026,Mizoram,Lawngtlai Iii,14038.2,ig,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83556,03/08/2026,Karnataka,Bangalore,22400,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,
+#83575,04/08/2026,Karnataka,Bangalore,4679.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83576,04/08/2026,Karnataka,Bengaluru,6999,google,lightingshopping_21285710791,direct,,,shopify
+#83577,04/08/2026,Haryana,Gurgaon,1802,google,sag_organic,google,sag_organic,,zoho sales iq
+#83581,04/08/2026,Delhi,New Delhi,3099,google,lightingshopping_21285710791,direct,,,shopify
+#83580,04/08/2026,Karnataka,Bengaluru,16198,direct,,direct,,,zoho sales iq
+#83579,04/08/2026,Gujarat,Ahmedabad,14197,instagram,,instagram,,,shopify
+#83578,04/08/2026,Kerala,Kochi,1758,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83582,04/08/2026,Karnataka,Bengaluru,3799,google,,google,,,shopify
+#83584,04/08/2026,Maharashtra,Mumbai,5579.1,direct,,direct,,,zoho sales iq
+#83583,04/08/2026,Kerala,palakkad,2634.15,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Referral,,,zoho sales iq
+#83585,04/08/2026,Punjab,Mohali,112617.4,Facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,Facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,,zoho sales iq
+#83587,04/08/2026,Gujarat,Ahmdabad,12598,direct,,direct,,,zoho sales iq
+#83590,04/08/2026,Karnataka,Bangalore,3059.1,Referral,,Google,search_brand_18098202173,,zoho sales iq
+#83594,04/08/2026,Delhi,Delhi,6374.12,Tata,,Tata,,,zoho sales iq
+#83589,04/08/2026,Karnataka,Bangalore,4674.15,direct,,direct,,,zoho sales iq
+#83588,04/08/2026,Haryana,GURUGRAM,5942.2,Tata,,Tata,,,zoho sales iq
+#83593,04/08/2026,Maharashtra,Mumbai,4723,Tata,,Tata,,,zoho sales iq
+#83591,04/08/2026,Haryana,", GURUGRAM,",3057.12,Tata,,Tata,,,zoho sales iq
+#83592,04/08/2026,Nagaland,Kohima,2502.2,google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#83586,04/08/2026,Tamil Nadu,Chennai,5101,Tata,,Tata,,,zoho sales iq
+#83599,04/08/2026,Maharashtra,Mumbai,12868.2,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83598,04/08/2026,Gujarat,Ahmedabad,7559.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83600,04/08/2026,Maharashtra,Mumbai,39798,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83595,04/08/2026,Delhi,Delhi,6374.12,Tata,,Tata,,,zoho sales iq
+#83596,04/08/2026,Uttar Pradesh,Noida,2077,Tata,,Tata,,,zoho sales iq
+#83597,04/08/2026,Uttar Pradesh,Noida,2077,Tata,,Tata,,,zoho sales iq
+#83602,04/08/2026,Bihar,MUZAFFARPUR,11789.1,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#83601,04/08/2026,Maharashtra,Navi Mumbai,2999,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,,shopify
+#83604,04/08/2026,Delhi,Delhi West,13499,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83603,04/08/2026,Karnataka,Bangalore,7223.3,google,pmaxlightingnc_16828666790,Referral,,,zoho sales iq
+#83607,04/08/2026,Maharashtra,Mumbai,5579.1,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83605,04/08/2026,Tamil Nadu,Ooty,2809.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83608,04/08/2026,Kerala,CALICUT,7308.3,direct,,direct,,,zoho sales iq
+#83609,04/08/2026,Karnataka,Bangalore,4929.15,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#83606,04/08/2026,Delhi,delhi,11048.3,direct,,direct,,,zoho sales iq
+#83611,04/08/2026,Tamil Nadu,Ramanathapuram,11518.2,ig,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_12024154501047038,direct,search_brand_18098202173,,zoho sales iq
+#83610,04/08/2026,Delhi,New Delhi,2629.1,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83612,04/08/2026,Telangana,Hyderabad,2455,Tata,,Tata,,,zoho sales iq
+#83615,04/08/2026,Odisha,Sundargarh,3999,Facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_12024154501047038,direct,,,zoho sales iq
+#83613,04/08/2026,Uttar Pradesh,Agra,42568.2,direct,,direct,,,shopify
+#83614,04/08/2026,Maharashtra,Navi Mumbai,19034.9,direct,,direct,,,zoho sales iq
+#83619,04/08/2026,Tamil Nadu,Chennai,7918.2,google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#83617,04/08/2026,Haryana,Gurugram,4799,direct,,direct,,,shopify
+#83616,04/08/2026,Haryana,Gurgaon,4799,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83618,04/08/2026,Kerala,Payyannur,6800,,,,,,zoho sales iq
+#83622,04/08/2026,Karnataka,Mangalore,9178.2,google,,direct,,,shopify
+#83620,04/08/2026,Haryana,Gurgaon,8638.2,Facebook ,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,direct,,,shopify
+#83621,04/08/2026,Karnataka,Bangalore,19718.3,Facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83623,04/08/2026,Telangana,Miyapur,20198,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83625,04/08/2026,Telangana,Hyderabad,15658.2,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#83624,04/08/2026,Assam,Guwahati,3199,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83626,05/08/2026,Odisha,Bhubaneswar,23299,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83628,05/08/2026,Kerala,Alappuzha,14218.2,google,,google,,,shopify
+#83629,05/08/2026,Uttar Pradesh,Noida,4319.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83630,05/08/2026,Maharashtra,Mumbai,2899.1,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83634,05/08/2026,Maharashtra,Mumbai,12199,direct,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#83633,05/08/2026,Mizoram,LAWNGTLAI,5068.07,Tata,,Tata,,,zoho sales iq
+#83635,05/08/2026,Kerala,Kochi,10228.15,google,pmaxbleeders_20714640181,Referral,,,zoho sales iq
+#83632,05/08/2026,Mizoram,LAWNGTLAI,5068.07,Tata,,Tata,,,zoho sales iq
+#83631,05/08/2026,Mizoram,Kolasib,10099,Amazon,,Amazon,,,zoho sales iq
+#83638,05/08/2026,Telangana,Hyderabad,15998,direct,,google,,,shopify
+#83630,05/08/2026,Maharashtra,Mumbai,1500,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83639,05/08/2026,Rajasthan,Jaisalmer,7564.15,direct,,direct,,,zoho sales iq
+#83636,05/08/2026,Karnataka,Bengalore,6235,Tata,,Tata,,,zoho sales iq
+#83640,05/08/2026,Rajasthan,Jaipur,3499,bing,PmaxLightingBing,bing,PmaxLightingBing,,shopify
+#83642,05/08/2026,West Bengal,KOLKATA,4799,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83641,05/08/2026,Haryana,Faridabad,8997,direct,,google,PMaxLightingNC_16828666790,,shopify
+#83643,05/08/2026,Delhi,Delhi,4799,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#83645,05/08/2026,Uttar Pradesh,Noida,98339.9,google,search_brand_18098202173,Referral,,,zoho sales iq
+#83644,05/08/2026,Kerala,Aluva,22269.15,,,,,,zoho sales iq
+#83647,05/08/2026,Haryana,Gurugram,8798,direct,,razorpay,,,zoho sales iq
+#83646,05/08/2026,Tamil Nadu,Chennai,24054.15,Referral,,direct,,,zoho sales iq
+#83650,05/08/2026,Rajasthan,Jaipur,42114.6,direct,,direct,,,zoho sales iq
+#83648,05/08/2026,Punjab,Bathinda,2989.1,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83651,05/08/2026,Maharashtra,Mumbai,3499,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83649,05/08/2026,Karnataka,Bangalorw,6799,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#83652,05/08/2026,Maharashtra,Pune,4999,direct,,direct,,,zoho sales iq
+#83653,05/08/2026,Goa,"Mapusa, Guirim",29094,direct,,direct,,,zoho sales iq
+#83654,05/08/2026,Maharashtra,Mumbai,4998,google,,google,,,shopify
+#83655,05/08/2026,Telangana,Lemoor,24796,instagram,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,instagram,,,zoho sales iq
+#83657,05/08/2026,Maharashtra,Mumbai,15599,google,LightingSearchaimax,direct,,,zoho sales iq
+#83656,05/08/2026,Uttar Pradesh,MIRZAPUR,2999,google,,google,,,shopify
+#83660,05/08/2026,Tamil Nadu,Chennai,15198,google,,direct,,,shopify
+#83658,05/08/2026,Delhi,DELHI,6499,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83659,05/08/2026,Madhya Pradesh,Seoni,44434.16,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83661,05/08/2026,Haryana,Kadarpur,20787.3,direct,,direct,,,zoho sales iq
+#83662,05/08/2026,Jammu and Kashmir,Jammu,31045.5,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83666,05/08/2026,Tamil Nadu,Tirupur,12689.1,google,,google,,,shopify
+#83665,05/08/2026,Maharashtra,Nagpur,6998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83663,05/08/2026,Telangana,Hyderabad,41657.4,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83664,05/08/2026,Telangana,Hyderabad,11699,direct,,direct,,,shopify
+#83668,06/08/2026,Maharashtra,MUMBAI,14038.2,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#83667,06/08/2026,Goa,Porvorim,5399,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83669,06/08/2026,Karnataka,Bengaluru,3869.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83670,06/08/2026,West Bengal,NORTH24PARAGANAS,3494.65,Tata,,Tata,,,zoho sales iq
+#83674,06/08/2026,Gujarat,Vadodara,49099,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83673,06/08/2026,Maharashtra,Mumbai,3116,Tata,,Tata,,,zoho sales iq
+#83676,06/08/2026,Himachal Pradesh,Solan,35608.2,,,,,,zoho sales iq
+#83671,06/08/2026,Tamil Nadu,Coimbatore,5479,Tata,,Tata,,,zoho sales iq
+#83672,06/08/2026,Maharashtra,Mumbai,3116,Tata,,Tata,,,zoho sales iq
+#83675,06/08/2026,West Bengal,Kolkata,38000,direct,,direct,,,zoho sales iq
+#83679,06/08/2026,Telangana,Hyderabad,10258.2,direct,,direct,,,zoho sales iq
+#83678,06/08/2026,Gujarat,Vadodara,5699,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83677,06/08/2026,Maharashtra,Pune,10197.45,direct,,direct,,,zoho sales iq
+#83680,06/08/2026,Uttar Pradesh,Prayagraj,6374.15,direct,,direct,,,zoho sales iq
+#83682,06/08/2026,Maharashtra,MUMBAI,929,Amazon,,Amazon,,,zoho sales iq
+#83681,06/08/2026,Uttarakhand,Rishikesh,501576,direct,,direct,,,zoho sales iq
+#83685,06/08/2026,Maharashtra,Mumbai,10618.2,google,LightingSearchaimax,direct,,,zoho sales iq
+#83683,06/08/2026,Goa,Aldona,3199,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83684,06/08/2026,Maharashtra,"East, Mumbai",4589.15,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#83688,06/08/2026,Uttar Pradesh,Lucknow,20878.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,zoho sales iq
+#83686,06/08/2026,Haryana,GURUGRAM,9875.3,Tata,,Tata,,,zoho sales iq
+#83687,06/08/2026,Haryana,GURUGRAM,9875.3,Tata,,Tata,,,zoho sales iq
+#83689,06/08/2026,Goa,North Goa,12419.1,direct,,direct,,,zoho sales iq
+#83690,06/08/2026,West Bengal,Kolkata,9800,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Direct,,,zoho sales iq
+#83691,06/08/2026,Maharashtra,Dhule,25269,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,direct,,,zoho sales iq
+#83693,06/08/2026,Maharashtra,Pune,5799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83692,06/08/2026,Maharashtra,Mumbai,13342.45,Facebook ,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83694,06/08/2026,Maharashtra,PUNE,4079.15,Facebook ,072926_advantage+catalog_terracotta_decor_cbo_asc_evergreen_120246907043390384,Facebook,072926_advantage+catalog_terracotta_decor_cbo_asc_evergreen_120246907043390384,,zoho sales iq
+#83696,06/08/2026,Telangana,Hyderabad,4099,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83695,06/08/2026,Chandigarh,Chandigarh,13598,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83697,07/08/2026,Madhya Pradesh,Bhopal,4769.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83699,07/08/2026,Maharashtra,Mumbai,8839.15,direct,,direct,,,zoho sales iq
+#83698,07/08/2026,Punjab,Sahibzada Ajit Singh Nagar,12419.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83702,07/08/2026,Delhi,New Delhi,20798.4,Bing,,direct,,,zoho sales iq
+#83701,07/08/2026,Telangana,Hyderabad,5857,Tata,,Tata,,,zoho sales iq
+#83700,07/08/2026,Maharashtra,MUMBAI,3499,Amazon,,Amazon,,,zoho sales iq
+#83703,07/08/2026,Telangana,Hyderabad,15306.8,facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,Facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,,zoho sales iq
+#83704,07/08/2026,Uttar Pradesh,NOIDA,50711.2,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#83705,07/08/2026,Maharashtra,RAIGARH,5598,Amazon,,Amazon,,,zoho sales iq
+#83708,07/08/2026,Uttarakhand,Dehradun,21397,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83712,07/08/2026,Andhra Pradesh,"VISAKHAPATNAM,",499,Amazon,,Amazon,,,zoho sales iq
+#83711,07/08/2026,Uttar Pradesh,Agra,5524.71,Tata,,Tata,,,zoho sales iq
+#83710,07/08/2026,Karnataka,Devanahalli,8922.45,direct,,google,pmaxbleeders_20714640181,,zoho sales iq
+#83709,07/08/2026,Uttar Pradesh,Agra,6139.29,Tata,,Tata,,,zoho sales iq
+#83715,07/08/2026,Delhi,New Delhi,35996,Google,Search_Brand_18098202173,direct,,,zoho sales iq
+#83714,07/08/2026,Maharashtra,Mumbai,6999,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83713,07/08/2026,Maharashtra,Mumbai,1839,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,zoho sales iq
+#83699,07/08/2026,Maharashtra,Mumbai,"10,839.15",direct,,direct,,,zoho sales iq
+#83716,07/08/2026,Delhi,Delhi,12598,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83717,07/08/2026,Delhi,New Delhi,4844.15,direct,,Facebook,,,zoho sales iq
+#83718,07/08/2026,Karnataka,Bengaluru,7648.3,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#83719,07/08/2026,Tamil Nadu,Thoothukudi,29911.5,,,,,,zoho sales iq
+#83720,07/08/2026,Telangana,Hyderabad,94032.9,direct,,direct,,,zoho sales iq
+#83722,07/08/2026,Karnataka,Bengaluru,3806.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83721,07/08/2026,Karnataka,Bengaluru,19799,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83723,07/08/2026,Uttar Pradesh,Bareilly,7199.1,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83724,07/08/2026,Punjab,Nihal singh wala,7738.2,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#83725,08/08/2026,Uttar Pradesh,Ghaziabad,9396,Google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#83726,08/08/2026,West Bengal,Islampur,28076.4,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83727,08/08/2026,Goa,Nagoa verna,7299,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83729,08/08/2026,Uttar Pradesh,Noida,14219.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83728,08/08/2026,Karnataka,Bengaluru,5799,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83730,08/08/2026,Maharashtra,MUMBAI,14798,Amazon,,Amazon,,,zoho sales iq
+#83733,08/08/2026,Maharashtra,Mumbai,2719.1,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,instagram,072926_Advantage+Catalog_Terracotta_Decor_CBO_ASC_Evergreen_120246907043390384,,shopify
+#83732,08/08/2026,Maharashtra,Karanje,19888.3,,,,,,zoho sales iq
+#83731,08/08/2026,Telangana,HYDERABAD,2799,Amazon,,Amazon,,,zoho sales iq
+#83734,08/08/2026,Delhi,Delhi,8408,Tata,,Tata,,,zoho sales iq
+#83736,08/08/2026,Maharashtra,à¤®à¥à¤‚à¤¬à¤ˆ,3499,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#83739,08/08/2026,Tamil Nadu,COIMBATORE,52495,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83735,08/08/2026,Karnataka,Bengaluru,6499,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#83740,08/08/2026,Andhra Pradesh,Vijayawada,7799,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83738,08/08/2026,Delhi,Delhi,4543.6,Tata,,Tata,,,zoho sales iq
+#83737,08/08/2026,Delhi,Delhi,4543.6,Tata,,Tata,,,zoho sales iq
+#83742,08/08/2026,Tamil Nadu,chennai,14998,direct,,direct,,,zoho sales iq
+#83741,08/08/2026,Delhi,South Delhi,2999,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83743,08/08/2026,Karnataka,Bangalore,9089.1,direct,,direct,,,zoho sales iq
+#83745,08/08/2026,Gujarat,Ahmedabad,5219.1,google,LightingSearchaimax,direct,,,zoho sales iq
+#83744,08/08/2026,Haryana,Panipat,3299,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83746,08/08/2026,Karnataka,Bangalore,5268.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#83749,08/08/2026,Telangana,Hyderabad,6499,direct,,google,,,zoho sales iq
+#83747,08/08/2026,Karnataka,Bengalore,8040.1,Tata,,Tata,,,zoho sales iq
+#83748,08/08/2026,Uttar Pradesh,Noida,4439,Tata,,Tata,,,zoho sales iq
+#83750,08/08/2026,Madhya Pradesh,Neemuch,2664.15,,,,,,zoho sales iq
+#83751,08/08/2026,Telangana,Hyderabad,8699,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83752,08/08/2026,Andhra Pradesh,Vijayawada,24816.6,,,,,,zoho sales iq
+#83753,08/08/2026,Karnataka,Bangalore,9179.1,direct,,direct,,,zoho sales iq
+#83754,09/08/2026,Karnataka,Bangalore,10257.3,google,LightingSearchaimax,direct,,,zoho sales iq
+#83755,09/08/2026,Uttar Pradesh,NOIDA,45714.6,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83757,09/08/2026,Goa,SIOLIM,23579.1,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83756,09/08/2026,Haryana,Gurugram,4199,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83758,09/08/2026,Maharashtra,Mumbai,19349.1,direct,,facebook,,,zoho sales iq
+#83759,09/08/2026,Haryana,Gurugram,3499,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83760,09/08/2026,Haryana,Gurugram,13598,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83761,09/08/2026,Uttar Pradesh,Mathura,650000,direct,,direct,,,zoho sales iq
+#83763,09/08/2026,Maharashtra,Pune,18717.3,direct,,direct,,,zoho sales iq
+#83762,09/08/2026,Kerala,Changanassery,5438,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83764,09/08/2026,Maharashtra,Mumbai,5939.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83765,09/08/2026,Karnataka,Bengaluru,7357,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83768,09/08/2026,Haryana,GURUGRAM,17495,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#83766,09/08/2026,Haryana,Gurgaon,4731.3,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83767,09/08/2026,Karnataka,Bangalore,5014.15,direct,,direct,,,zoho sales iq
+#83769,09/08/2026,Maharashtra,Mumbai,4999,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,zoho sales iq
+#83771,09/08/2026,Maharashtra,Mumbai,12238.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,google,,,shopify
+#83770,09/08/2026,Chhattisgarh,Raigarh,18526.6,google,,google,,,zoho sales iq
+#83774,09/08/2026,Jammu and Kashmir,Srinagar,26167,direct,,direct,,,zoho sales iq
+#83776,09/08/2026,Maharashtra,Nagpur,5167.26,Tata,,Tata,,,zoho sales iq
+#83775,09/08/2026,Maharashtra,Nagpur,4097.78,Tata,,Tata,,,zoho sales iq
+#83777,09/08/2026,Andhra Pradesh,Anantapur,16399,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83778,09/08/2026,Goa,"CUPEM, NUVEM, GOA",3779.1,direct,,direct,,,zoho sales iq
+#83779,09/08/2026,West Bengal,Kolkata,4769.1,direct,,direct,,,zoho sales iq
+#83780,09/08/2026,Karnataka,Bangalore,3779.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83782,09/08/2026,Assam,Jorhat,4399,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83781,09/08/2026,Karnataka,Bangalore,23487.3,direct,,direct,,,shopify
+#83784,09/08/2026,Jammu and Kashmir,Jammu,32997,google,search_brand_1809820217,google,search_brand_18098202173,,shopify
+#83783,09/08/2026,Chandigarh,Chandigarh,4139.1,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#83786,09/08/2026,Uttar Pradesh,Greater Noida,22742.1,google,,chatgpt,,,shopify
+#83785,09/08/2026,Odisha,Bhubaneswar,8888,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83797,10/08/2026,West Bengal,Kolkata,3799,Amazon,,Amazon,,,zoho sales iq
+#83819,10/08/2026,Goa,Anjuna,43196,google,lightingsearchaimax,google,lightingsearchaimax,,zoho sales iq
+#83798,10/08/2026,West Bengal,New Town,7999,google,,direct,,,zoho sales iq
+#83825,10/08/2026,Maharashtra,Pimpri-Chinchwad,3499,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83802,10/08/2026,Telangana,HYDERABAD,2719.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83811,10/08/2026,Maharashtra,Mumbai,2989.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83789,10/08/2026,Andhra Pradesh,..Koyyalagudem,18355.5,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83796,10/08/2026,Odisha,Jagatpur,33998,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83808,10/08/2026,Delhi,South West Delhi,5199,google,,google,,,shopify
+#83813,10/08/2026,Maharashtra,Pune,15998,direct,,direct,,,shopify
+#83820,10/08/2026,Karnataka,Bengaluru,9538.2,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83806,10/08/2026,Jammu and Kashmir,Jammu,56660.4,direct,,direct,,,shopify
+#83809,10/08/2026,Karnataka,Bengaluru,7299,direct,,google,,,shopify
+#83787,10/08/2026,Karnataka,Bengaluru,4139.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83817,10/08/2026,Maharashtra,Mumbai,4949.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83826,10/08/2026,Karnataka,Bengaluru,14217.3,direct,,direct,,,shopify
+#83815,10/08/2026,Delhi,New Delhi,14998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83790,10/08/2026,Assam,Guwahati,3699,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83800,10/08/2026,Maharashtra,YAVATMAL,46791,google,,google,,,shopify
+#83822,10/08/2026,Maharashtra,Navi Mumbai,2179.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83824,10/08/2026,Maharashtra,Mumbai,5848.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83814,10/08/2026,Haryana,Gurugram,3418.2,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#83804,10/08/2026,Maharashtra,Mumbai,12099,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83799,10/08/2026,Karnataka,Udupi,7599,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83788,10/08/2026,Odisha,Khordha,15299.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83827,10/08/2026,Punjab,Amritsar,23899,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83791,10/08/2026,Telangana,Hyderabad,10439.1,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83821,10/08/2026,Maharashtra,Pune,5849.1,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83816,10/08/2026,Gujarat,Ahmedabad,6029.1,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83812,10/08/2026,Delhi,Delhi,4718.42,Tata,,Tata,,,zoho sales iq
+#83803,10/08/2026,Maharashtra,Mumbai,7799,,,,,,zoho sales iq
+#83818,10/08/2026,Andhra Pradesh,Visakhapatnam,10499,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83823,10/08/2026,Goa,Miramar,6629.15,facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,,zoho sales iq
+#83805,10/08/2026,Karnataka,Bengaluru,6999,google,,google,,,zoho sales iq
+#83810,10/08/2026,Delhi,Delhi,4718.42,Tata,,Tata,,,zoho sales iq
+#83801,10/08/2026,Maharashtra,Mumbai,4589.15,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83704,10/08/2026,Uttar Pradesh,NOIDA,5520,Google,search_brand_18098202173,Google,search_brand_18098202173,,zoho sales iq
+#83807,10/08/2026,Karnataka,Bengaluru,27000,,,,,,zoho sales iq
+#83847,11/08/2026,Karnataka,Mysuru,3169.1,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#83828,11/08/2026,Haryana,Faridabad,13767.3,direct,,google,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83849,11/08/2026,Nagaland,Jakhama Hq,5199,direct,,direct,,,zoho sales iq
+#83839,11/08/2026,Punjab,Ludhiana,5759.1,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#83848,11/08/2026,Nagaland,Kohima,3499,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83841,11/08/2026,Maharashtra,Mumbai,5499,direct,,direct,,,shopify
+#83838,11/08/2026,Delhi,New Delhi,4299,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83845,11/08/2026,Punjab,Jalandhar,7499,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83850,11/08/2026,Karnataka,Bangalore,6299,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83842,11/08/2026,Maharashtra,Pune,13798,google,,google,,,shopify
+#83831,11/08/2026,Haryana,"Kutabpur, Kaithal",3149.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83844,11/08/2026,Maharashtra,Mumbai,6569.1,direct,,direct,,,shopify
+#83840,11/08/2026,Maharashtra,Mumbai,11697,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83830,11/08/2026,Delhi,New Delhi,2399,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83837,11/08/2026,Uttar Pradesh,Noida,3099,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83834,11/08/2026,Kerala,changanassery,12409.15,Amazon,,Amazon,,,zoho sales iq
+#83832,11/08/2026,Tamil Nadu,COIMBATORE,76022.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83846,11/08/2026,Haryana,Gurugram,20228.3,,,,,,zoho sales iq
+#83833,11/08/2026,Maharashtra,Mumbai,60194.5,direct,,direct,,,zoho sales iq
+#83836,11/08/2026,Maharashtra,Mumbai,6969.15,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83835,11/08/2026,Haryana,Faridabad,2549,tata,,tata,,,zoho sales iq
+#83843,11/08/2026,Telangana,NANAKRAMGUDA,6441.3,direct,,direct,,,zoho sales iq
+#83859,12/08/2026,Andhra Pradesh,Palamaner,12099,direct,,direct,,,shopify
+#83863,12/08/2026,Odisha,Bhubaneswar,12198,direct,,direct,,,sales iq
+#83878,12/08/2026,Karnataka,Mysuru,3299,direct,,direct,,,sales iq
+#83884,12/08/2026,Karnataka,Bengaluru,6998,google,lightingsearchaimax,google,lightingsearchaimax,attributed direct but found google as attribution in sales iq need to discussed with otb,sales iq
+#83851,12/08/2026,Punjab,Amritsar,12299,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83860,12/08/2026,Telangana,Hyderabad,16598,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83883,12/08/2026,Madhya Pradesh,Jabalpur,12399,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83877,12/08/2026,Gujarat,Pardi,3999,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#83866,12/08/2026,Gujarat,Ahmedabad,9899.1,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83854,12/08/2026,Telangana,Hyderabad,11798,google,BestsellersDemandGen_23697546917,google,BestsellersDemandGen_23697546917,,shopify
+#83868,12/08/2026,Telangana,Hyderabad,13229.1,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83879,12/08/2026,Karnataka,Bangalore,46598,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83855,12/08/2026,Maharashtra,Mumbai,5499,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83874,12/08/2026,Goa,"Fatrade, Varca",26998,direct,,direct,,,shopify
+#83869,12/08/2026,Nagaland,DIMAPUR,4799,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83865,12/08/2026,Tamil Nadu,Coimbatore,4499.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83870,12/08/2026,Goa,Chicalim,73484,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83880,12/08/2026,Maharashtra,Mumbai,2999,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#83867,12/08/2026,Kerala,Haripad,8498,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83885,12/08/2026,Telangana,Hyderabad,16197,instagram,BOF_Retargeting,instagram,BOF_Retargeting,,shopify
+#83858,12/08/2026,Maharashtra,Mumbai,4334.15,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,sales iq
+#83864,12/08/2026,Goa,MORJIM,9599,Amazon,,Amazon,,,sales iq
+#83876,12/08/2026,Maharashtra,Mumbai,5609.15,,,,,,sales iq
+#83881,12/08/2026,Assam,Guwahati,17419.9,facebook,,google,lightingshopping_21285710791,,sales iq
+#83871,12/08/2026,Haryana,"Gurgaon,",3116,Tata,,Tata,,,sales iq
+#83853,12/08/2026,Tamil Nadu,Coimbatore,11698.2,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,sales iq
+#83861,12/08/2026,Maharashtra,mumbai,4229.1,direct,,direct,,,sales iq
+#83882,12/08/2026,Delhi,New Delhi,6298.2,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,sales iq
+#83872,12/08/2026,Haryana,Gurgaon,10538.3,,,,,,sales iq
+#83352,12/08/2026,Maharashtra,Mumbai,"261,269.60",,,,,b2b direct,sales iq
+#83862,12/08/2026,Karnataka,BANGLORE,24975.55,direct,,direct,,,sales iq
+#83857,12/08/2026,Maharashtra,Mumbai,2664.15,google,lightingshopping,google,lightingshopping,,sales iq
+#83875,12/08/2026,Tamil Nadu,KANNIYAKUMARI,23599,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,sales iq
+#83852,12/08/2026,Haryana,Gurgaon,7499,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,sales iq
+#83902,13/08/2026,Telangana,Hyderabad,6299.1,facebook,,direct,,,zoho sales iq
+#83909,13/08/2026,Punjab,Sahibzada Ajit Singh Nagar,6599,direct,,direct,,,
+#83887,13/08/2026,Delhi,Delhi,5599,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83915,13/08/2026,West Bengal,Ghatal,23397,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83916,13/08/2026,Uttar Pradesh,à¤†à¤œà¤¼à¤®à¤—à¤¢à¤¼,12198,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83912,13/08/2026,Telangana,HYDERABAD,4999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83903,13/08/2026,Mizoram,AIZAWL,5523.3,direct,,direct,,,shopify
+#83904,13/08/2026,Telangana,Hyderabad,2699,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83907,13/08/2026,Haryana,Gurugram,29796,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83891,13/08/2026,Gujarat,Ahmedabad,7798,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83886,13/08/2026,Haryana,Gurugram,16898,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83917,13/08/2026,Karnataka,Mangalore,6599,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83901,13/08/2026,Telangana,Hyderabad,42794,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83910,13/08/2026,Maharashtra,Mumbai,9398,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83908,13/08/2026,Maharashtra,Mumbai,5699,instagram,,direct,,,
+#83888,13/08/2026,Maharashtra,Mumbai,3262,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,
+#83911,13/08/2026,Haryana,Panipat,5099,instagram,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#83914,13/08/2026,Maharashtra,Thane,7799,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,
+#83894,13/08/2026,Karnataka,Banglore,31316.4,direct,,razorpay,,,shopify
+#83893,13/08/2026,Delhi,Delhi,7369,Tata,,Tata,,,zoho sales iq
+#83890,13/08/2026,Haryana,GURUGRAM,4912,Tata,,Tata,,,zoho sales iq
+#83889,13/08/2026,Telangana,HYDERABAD,429,Amazon,,Amazon,,,zoho sales iq
+#83892,13/08/2026,Haryana,GURUGRAM,5479,Tata,,Tata,,,zoho sales iq
+#83898,13/08/2026,Haryana,Gurugram,121584,direct,,direct,,,zoho sales iq
+#83900,13/08/2026,Himachal Pradesh,Shimla,13500,,,,,,zoho sales iq
+#83913,13/08/2026,Karnataka,Bangalore,3089.15,Facebook,,google,,,zoho sales iq
+#83905,13/08/2026,Tamil Nadu,Coimbatore,13767.3,,,,,,zoho sales iq
+#83906,13/08/2026,Maharashtra,Mumbai,19300,google,,google,,,zoho sales iq
+#83899,13/08/2026,Telangana,Hyderabad,8584.15,direct,,google,,,zoho sales iq
+#83918,14/08/2026,Maharashtra,Nagpur,12598,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83919,14/08/2026,Punjab,Sas Nagar (mohali),5999,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83921,14/08/2026,Maharashtra,Mumbai,3229.15,facebook,,facebook,,,zoho sales iq
+#83922,14/08/2026,Punjab,Mohali,28398,direct,,direct,,,zoho sales iq
+#83925,14/08/2026,Karnataka,DAKSHINA KANNADA,4999,google,,google,,,shopify
+#83923,14/08/2026,Telangana,Hyderabad,13343,facebook,,facebook,,,zoho sales iq
+#83924,14/08/2026,Haryana,Faridabad,3364.2,direct,,direct,,,zoho sales iq
+#83928,14/08/2026,Delhi,Delhi,2077,Tata,,Tata,,,zoho sales iq
+#83926,14/08/2026,Gujarat,Vadodara,943,Tata,,Tata,,,zoho sales iq
+#83927,14/08/2026,Goa,Taleigao,25414.15,direct,,direct,,,zoho sales iq
+#83929,14/08/2026,Delhi,Delhi,16827.45,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,zoho sales iq
+#83931,14/08/2026,Punjab,Sahibzada Ajit Singh Nagar,48194,direct,,direct,,,shopify
+#83930,14/08/2026,Karnataka,Bengaluru,12597,google,,direct,,,shopify
+#83932,14/08/2026,Kerala,Ernakulam,5699,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83935,14/08/2026,Haryana,GURUGRAM,4345,Tata,,Tata,,,zoho sales iq
+#83933,14/08/2026,Karnataka,Bangalore,11896.6,google,pmaxbleeders_20714640181,facebook,,,zoho sales iq
+#83934,14/08/2026,Uttar Pradesh,Noida,10198,google,,direct,,,shopify
+#83937,14/08/2026,Delhi,New Delhi,2922,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#83939,14/08/2026,Maharashtra,Mumbai,17099,google,,google,,,shopify
+#83938,14/08/2026,Delhi,"New Delhi ,",22779.15,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83940,14/08/2026,Meghalaya,East Khasi Hills,3619,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83941,14/08/2026,Jharkhand,Ranchi,12099,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83942,15/08/2026,Delhi,New Delhi,3499,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83943,15/08/2026,Chhattisgarh,Bhilai,7799,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83946,15/08/2026,Delhi,Delhi,13196,direct,,direct,,,shopify
+#83945,15/08/2026,Karnataka,Bengaluru,3599,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#83944,15/08/2026,Maharashtra,Mumbai,31618.3,google,lightingsearchaimax,google,lightingsearchaimax,,zoho sales iq
+#83947,15/08/2026,Karnataka,Bangalore,6799.15,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#83948,15/08/2026,Rajasthan,Tonk,3499,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83949,15/08/2026,Rajasthan,Jodhpur,7499,google,PMaxLightingNC_16828666790,direct,,,shopify
+#83950,15/08/2026,Maharashtra,Thane,6999,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#83951,15/08/2026,West Bengal,KOLKATA,14998,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83952,15/08/2026,Tamil Nadu,Madurai,17398,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83953,15/08/2026,Maharashtra,NAGPUR,3099,google,Search_Brand_18098202173,direct,,,shopify
+#83954,15/08/2026,Maharashtra,Mumbai,20395.75,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83956,15/08/2026,Maharashtra,Mumbai,17997,direct,,direct,,,shopify
+#83955,15/08/2026,Maharashtra,Jalna,15598,google,,direct,,,shopify
+#83958,15/08/2026,West Bengal,Kolkata,3199,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83960,15/08/2026,Madhya Pradesh,Ujjain,4099,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83959,15/08/2026,Jammu and Kashmir,Srinagar,90346.5,direct,,direct,,,zoho sales iq
+#83957,15/08/2026,Karnataka,Bangalore,10114.15,google,shoppingindexdecor_23361314596,facebook,,,zoho sales iq
+#83961,16/08/2026,Karnataka,Bengaluru,15597,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#83966,16/08/2026,Maharashtra,Mumbai,1599,direct,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#83962,16/08/2026,Maharashtra,Navi Mumbai,4999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83964,16/08/2026,Maharashtra,Pune,6374.15,facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,facebook,060326_bof_retargeting_cbo_sales_warm_hot_evergreen_120244319824490384,,zoho sales iq
+#83963,16/08/2026,Karnataka,Bangalore,7137.45,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83965,16/08/2026,Maharashtra,Mumbai,7988.3,direct,,google,lightingshopping_21285710791,,zoho sales iq
+#83967,16/08/2026,Haryana,Gurugram,4079.15,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#83968,16/08/2026,Maharashtra,Pune,12000,facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#83969,16/08/2026,Tamil Nadu,Coimbatore,19546.6,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#83970,16/08/2026,Haryana,Gurgaon,2426.6,direct,,google,Search_Brand_18098202173,,shopify
+#83971,16/08/2026,Maharashtra,Mumbai,20314.15,direct,,direct,,,zoho sales iq
+#83972,16/08/2026,Uttar Pradesh,Noida,4319.1,google,,direct,,,shopify
+#83973,16/08/2026,Arunachal Pradesh,West Kameng,15897,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#83975,16/08/2026,Haryana,GURUGRAM,2360,Tata,,Tata,,,zoho sales iq
+#83976,16/08/2026,Maharashtra,Mumbai,7936,Tata,,Tata,,,zoho sales iq
+#83974,16/08/2026,Andhra Pradesh,Visakhapatnam,943,Tata,,Tata,,,zoho sales iq
+#83978,16/08/2026,Haryana,Gurgaon,1979,google,,direct,,,shopify
+#83977,16/08/2026,Maharashtra,Mumbai,11048.3,direct,,direct,,,zoho sales iq
+#83979,16/08/2026,Andhra Pradesh,Visakhapatnam,14938.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#83981,16/08/2026,Karnataka,Chitradurga,7799,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83980,16/08/2026,Karnataka,Bengaluru,9089.1,google,,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#83982,16/08/2026,Tamil Nadu,Chennai,4999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83983,16/08/2026,Delhi,New Delhi,6299.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83984,16/08/2026,Karnataka,Bengaluru,27604.2,google,,google,,,shopify
+#83993,17/08/2026,Karnataka,Bengaluru,10798,facebook,,direct,,,zoho sales iq
+#83995,17/08/2026,Uttar Pradesh,Varanasi,4998,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84018,17/08/2026,Delhi,New Delhi,4769.1,google,LightingSearchaimax,google,LightingSearchaimax,,zoho sales iq
+#83987,17/08/2026,Maharashtra,Mumbai,4257.1,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#84005,17/08/2026,Maharashtra,Pune,5758.2,direct,,direct,,,zoho sales iq
+#83989,17/08/2026,Maharashtra,Mumbai,7499,google,,direct,,,zoho sales iq
+#84015,17/08/2026,Karnataka,Bengaluru,4799,google,,direct,,,zoho sales iq
+#83998,17/08/2026,Gujarat,Virpur,8099,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84016,17/08/2026,Odisha,Bhubaneswar,2399,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84007,17/08/2026,Kerala,ERNAKULAM,2989.1,direct,,google,LightingShopping_21285710791,,shopify
+#83985,17/08/2026,Telangana,Secunderadad,8899,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#83999,17/08/2026,Rajasthan,Jaipur,15598,google,,google,,,shopify
+#84006,17/08/2026,Kerala,ERNAKULAM,7019.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#83994,17/08/2026,Karnataka,Bengaluru,26799,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84001,17/08/2026,West Bengal,Kolkata,4798,google,LightingSearchaimax,google,LightingSearchaimax,,shopify
+#84010,17/08/2026,Maharashtra,Mumbai,8699,direct,,google,PMaxLightingNC_16828666790,,shopify
+#84008,17/08/2026,Maharashtra,Mumbai,9089.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84000,17/08/2026,Punjab,LUDHIANA,5799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84004,17/08/2026,Delhi,South East,15799,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84013,17/08/2026,Bihar,Bhagalpur,24397,direct,,direct,,,shopify
+#84012,17/08/2026,Bihar,Bhagalpur,5999,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84002,17/08/2026,Kerala,Erattupetta,18449.1,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84017,17/08/2026,Gujarat,Vadodara,6208.2,direct,,razorpay,,,shopify
+#84003,17/08/2026,Maharashtra,Mumbai,8584.15,direct,,direct,,,zoho sales iq
+#84011,17/08/2026,Maharashtra,Nashik,4600,bing,pmaxlightingbing,bing,pmaxlightingbing,,zoho sales iq
+#84019,17/08/2026,Tamil Nadu,Pollachi,17007.3,google,,direct,,,zoho sales iq
+#83992,17/08/2026,Uttar Pradesh,Ghaziabad,4758.3,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83997,17/08/2026,Delhi,NEW DELH,12748.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84009,17/08/2026,Maharashtra,Mumbai,20738.3,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#83996,17/08/2026,West Bengal,Kolkata,5524.15,direct,,direct,,,zoho sales iq
+#83991,17/08/2026,Telangana,HYDERABAD,5799,Amazon,,Amazon,,,zoho sales iq
+#84014,17/08/2026,Karnataka,Bengaluru,10707.45,google,shoppingindexdecor_23361314596,direct,,,zoho sales iq
+#83990,17/08/2026,Delhi,Delhi,7180,Tata,,Tata,,,zoho sales iq
+#83988,17/08/2026,Delhi,New Delhi,5499,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#83986,17/08/2026,Bihar,Patna,8637.3,google,LightingSearchaimax,google,LightingSearchaimax,,zoho sales iq
+#84048,18/08/2026,Karnataka,Bangalore,6749.1,google,,google,,,zoho sales iq
+#84055,18/08/2026,Maharashtra,Mumbai,5697,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#84050,18/08/2026,Tamil Nadu,Rajakilpakkam,5099,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#84042,18/08/2026,Maharashtra,Mumbai,16199.1,direct,,direct,,,zoho sales iq
+#84023,18/08/2026,Karnataka,Bengaluru,11338.2,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#84033,18/08/2026,Maharashtra,Dadar west,6299.1,direct,,direct,,,zoho sales iq
+#84045,18/08/2026,West Bengal,Durgapur,13598,google,LightingSearchaimax,direct,,,zoho sales iq
+#84051,18/08/2026,Uttar Pradesh,Noida,3149.1,google,,google,,,shopify
+#84020,18/08/2026,Chandigarh,Chandigarh,5199,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84021,18/08/2026,Gujarat,Surat,1899,google,,google,,,shopify
+#84029,18/08/2026,Karnataka,Manipal,3099,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84030,18/08/2026,Madhya Pradesh,Bhopal,17188.2,direct,,google,,,shopify
+#84027,18/08/2026,Kerala,Palakkad,6999,google,,google,,,shopify
+#84044,18/08/2026,Andhra Pradesh,Ichapuram,10299,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84047,18/08/2026,Maharashtra,Vasai-Virar,10979.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84054,18/08/2026,Tamil Nadu,Chennai,9398,direct,,direct,,,shopify
+#84049,18/08/2026,Maharashtra,Vasai-Virar,9539.1,direct,,direct,,,shopify
+#84025,18/08/2026,Arunachal Pradesh,Tenga Market,9268.2,google,,google,,,shopify
+#84041,18/08/2026,Haryana,Gurgaon,18359.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84052,18/08/2026,Jharkhand,Jamshedpur,8598,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84053,18/08/2026,Gujarat,Vadodara,22297,direct,,direct,,,shopify
+#84022,18/08/2026,Assam,Kamrup Metro,54990,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,zoho sales iq
+#84036,18/08/2026,Gujarat,Ahemdabad,810.3,google,search_brand_18098202173,direct,,,zoho sales iq
+#84037,18/08/2026,Maharashtra,Ulwe,9859.15,google search engine,,direct,,,zoho sales iq
+#84039,18/08/2026,Tamil Nadu,Erode,29532.37,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,zoho sales iq
+#84043,18/08/2026,Tamil Nadu,Chennai,43341.5,,,,,,zoho sales iq
+#84035,18/08/2026,Karnataka,Bengaluru,8328.3,google,lightingshopping,google,lightingshopping,,zoho sales iq
+#84024,18/08/2026,Rajasthan,Hanumangarh,6544.15,direct,,direct,,,zoho sales iq
+#84028,18/08/2026,Telangana,HYDERABAD,2179,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84032,18/08/2026,Karnataka,Bengaluru,17946.9,facebook,,facebook,,,zoho sales iq
+#84046,18/08/2026,Kerala,Ernakulam,5694.15,Google Search Engine,,Google Search Engine,,,zoho sales iq
+#84026,18/08/2026,Karnataka,Bengaluru,4334.15,direct,,direct,,,zoho sales iq
+#84040,18/08/2026,Tamil Nadu,Erode,26358.9,google,pmaxlightingnc_16828666790,direct,,,zoho sales iq
+#84034,18/08/2026,Haryana,Gurugram,2399,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#84038,18/08/2026,Tamil Nadu,Erode,23188.52,google,pmaxlightingnc_16828666790,direct,,,zoho sales iq
+#84031,18/08/2026,Telangana,Hyderabad,4839.15,direct,,direct,,,zoho sales iq
+#84065,19/08/2026,Maharashtra,"Hinjawadi, Pune",20877.3,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84058,19/08/2026,Maharashtra,Mumbai,5309.1,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84061,19/08/2026,Odisha,Bhubaneswar,10978.2,direct,,bing,,,zoho sales iq
+#83259,19/08/2026,Uttar Pradesh,Greater Noida,1018.86,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,zoho sales iq
+#84078,19/08/2026,Gujarat,Gandhinagar,18396,direct,,direct,,,zoho sales iq
+#84057,19/08/2026,Haryana,Gurugram,6118.2,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84069,19/08/2026,West Bengal,Kolkata,4599,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84068,19/08/2026,Maharashtra,Nagpur,5799,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#84059,19/08/2026,Maharashtra,Navi Mumbai,13499,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84077,19/08/2026,Uttar Pradesh,Noida,6399,google,,google,,,shopify
+#84066,19/08/2026,Kerala,"Kochi, Ernakulam",6199,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84072,19/08/2026,Maharashtra,Pune,5759.1,google,,google,,,shopify
+#84070,19/08/2026,Karnataka,Bangalore,6599,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84056,19/08/2026,Maharashtra,Nashik,10599,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84081,19/08/2026,Maharashtra,Mumbai,5129.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84080,19/08/2026,Karnataka,Hubli,13398,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84062,19/08/2026,West Bengal,Kolkata,7198,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84075,19/08/2026,Maharashtra,Jalgaon,11398,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84079,19/08/2026,Kerala,TRIVANDRUM,44814.6,direct,,direct,,,zoho sales iq
+#84076,19/08/2026,Uttar Pradesh,Gorakhpur,12327.3,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84071,19/08/2026,Goa,Calangute,25469.1,direct,,direct,,,zoho sales iq
+#84060,19/08/2026,Karnataka,Bengaluru,10197.45,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84074,19/08/2026,Goa,Mhapusa,43090.45,direct,,direct,,,zoho sales iq
+#84067,19/08/2026,Karnataka,Bangalore,25469.1,facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84103,20/08/2026,Karnataka,Mysuru,7469.1,google,lightingsearchaimax_15393315826,direct,,,zoho sales iq
+#84101,20/08/2026,Karnataka,Mysuru,8299,google,LightingSearchaimax_15393315826,google,LightingSearchaimax_15393315826,,zoho sales iq
+#84094,20/08/2026,Delhi,Delhi,4599,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84086,20/08/2026,West Bengal,Kolkata,2899,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84093,20/08/2026,Odisha,Puri,8599,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84104,20/08/2026,Gujarat,Shantigram,22768.1,google,,google,,,shopify
+#84091,20/08/2026,Karnataka,Bengaluru,11699,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84096,20/08/2026,Assam,Guwahati,3149.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84102,20/08/2026,Karnataka,Bengaluru,24469.2,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84089,20/08/2026,Haryana,Gurugram,9998,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#84084,20/08/2026,Delhi,New Delhi,7799,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#84088,20/08/2026,Delhi,New Delhi,5483.7,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84087,20/08/2026,Telangana,Hyderabad,6499,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84083,20/08/2026,Karnataka,Doddathoguru,8299,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84105,20/08/2026,Delhi,New Delhi,20499,instagram,,instagram,,,shopify
+#84097,20/08/2026,Delhi,New Delhi,10284.15,google,search_brand,google,search_brand,,zoho sales iq
+#84095,20/08/2026,Maharashtra,Raigad,3698,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,zoho sales iq
+#84098,20/08/2026,Rajasthan,"Haldiram Pyau, Bikaner",8826.35,Tata,,Tata,,,zoho sales iq
+#84100,20/08/2026,Delhi,New Delhi,17423.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84099,20/08/2026,Karnataka,Bengaluru,10454.15,google,bestsellersdemandgen_23697546917,google,bestsellersdemandgen_23697546917,,zoho sales iq
+#84085,20/08/2026,Goa,"Mapusa, Guirim",9698,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,zoho sales iq
+#84092,20/08/2026,Karnataka,Bengaluru,20336.4,direct,,google,,,zoho sales iq
+#84090,20/08/2026,Karnataka,Bangalore,56621.25,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84117,21/08/2026,Telangana,Narsingi,5599,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84116,21/08/2026,Bihar,Goraul vaishali bihar,9999,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84114,21/08/2026,Karnataka,Koralur,3619,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84115,21/08/2026,Maharashtra,Ahmed Nagar,3999,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84113,21/08/2026,Arunachal Pradesh,Naharlagun,10889.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84108,21/08/2026,Uttar Pradesh,Noida,10439.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84111,21/08/2026,Maharashtra,Mumbai,14998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#84110,21/08/2026,Delhi,New Delhi,27838.4,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84109,21/08/2026,Haryana,Panchkula,10798,direct,,direct,,,zoho sales iq
+#84106,21/08/2026,Telangana,Hyderabad,67996.6,,,,,,zoho sales iq
+#84107,21/08/2026,Karnataka,Bengaluru,7019.1,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,zoho sales iq
+#84112,21/08/2026,Karnataka,Bangalore,19804.15,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84119,22/08/2026,Delhi,Delhi,6199,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84118,22/08/2026,Haryana,Panipat,2629.1,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84120,22/08/2026,Uttar Pradesh,Ghaziabad,17996.4,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84121,22/08/2026,Tamil Nadu,Chennai,13447,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84122,22/08/2026,Karnataka,Bangalore,12418.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84123,22/08/2026,Maharashtra,Mumbai,21078.3,direct,,direct,,,zoho sales iq
+#84125,22/08/2026,Haryana,Gurgaon,5758.2,google,LightingSearchaimax_15393315826,google,LightingSearchaimax_15393315826,,shopify
+#84124,22/08/2026,Haryana,Kalka,13612,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84126,22/08/2026,Tamil Nadu,Erode,9854.02,Tata,,Tata,,,zoho sales iq
+#84127,22/08/2026,Tamil Nadu,Chennai,5410,google,,google,,,zoho sales iq
+#84129,22/08/2026,Andhra Pradesh,Gudivada,2399,direct,,direct,,,zoho sales iq
+#84130,22/08/2026,Tamil Nadu,Chennai,3149.1,google,BrandShopping_23291591904,direct,,,zoho sales iq
+#84128,22/08/2026,Uttarakhand,Dehradun,4724.25,,,,,,zoho sales iq
+#84131,22/08/2026,Punjab,Mohali,22678,Tata,,Tata,,,zoho sales iq
+#84132,22/08/2026,Tamil Nadu,Chennai,13858.2,facebook,,facebook,,,zoho sales iq
+#84134,22/08/2026,Arunachal Pradesh,Roing,9799,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84133,22/08/2026,Karnataka,Bangalore,19632.45,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84135,22/08/2026,Haryana,GURUGRAM,4250,Tata,,Tata,,,zoho sales iq
+#84136,22/08/2026,Telangana,Kokapet,5531.8,google,"shoppingindexdecor_23361314596
+",google,"shoppingindexdecor_2336131459
+",,zoho sales iq
+#84137,22/08/2026,Telangana,Nallagandla,29095,google,lightingshopping_21285710791,direct,,,zoho sales iq
+#84138,22/08/2026,Odisha,Kendrapara,8699,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84139,22/08/2026,Gujarat,Ahemdabad,20792,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84140,22/08/2026,Rajasthan,Kota,6969.15,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,Facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84141,22/08/2026,Maharashtra,Mumbai,6499,Google,BrandShopping_23291591904,google,BrandShopping_23291591904,,zoho sales iq
+#84144,22/08/2026,Karnataka,Bengaluru,3419.1,Google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#84145,22/08/2026,Haryana,Gurgaon,9178.2,Google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#84142,22/08/2026,Rajasthan,Udaipur,62807.35,Google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84143,22/08/2026,Haryana,Gurgaon,4844.15,Google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84147,22/08/2026,Karnataka,Bengaluru,2899.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84146,22/08/2026,Uttar Pradesh,Noida,5799,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84148,22/08/2026,Maharashtra,Mumbai,18087.3,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84151,22/08/2026,Rajasthan,Jaipur,6839.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84150,22/08/2026,Maharashtra,Mumbai,5219.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84149,22/08/2026,Gujarat,Ahmedabad,8867,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84152,23/08/2026,Chhattisgarh,Jagdalpur,2179,google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#84154,23/08/2026,Odisha,Rourkela,35699,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84153,23/08/2026,Karnataka,Chikkakannalli,2989.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#84155,23/08/2026,Telangana,Hyderabad,6029.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84156,23/08/2026,Haryana,Gurugram,6299.1,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84158,23/08/2026,Karnataka,Bengaluru,6998,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84157,23/08/2026,Assam,Jorhat,4399,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84161,23/08/2026,Telangana,Hyderabad,9089.1,Bing,,direct,,,zoho sales iq
+#84160,23/08/2026,Karnataka,Bengaluru,30696,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84159,23/08/2026,Karnataka,Bangalore,2699,google,BestsellerVideos,google,BestsellerVideos,,shopify
+#84162,23/08/2026,Maharashtra,Mumbai,19197.6,google,lightingshopping_21285710791,direct,,,zoho sales iq
+#84164,23/08/2026,Goa,SOUTH GOA,12298,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84165,23/08/2026,Andhra Pradesh,..Koyyalagudem,23217.3,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84163,23/08/2026,Bihar,Biharsharif,7559.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84166,23/08/2026,Madhya Pradesh,Indore,14307.3,direct,,direct,,,zoho sales iq
+#84167,23/08/2026,Maharashtra,Satara,5039.1,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#84168,23/08/2026,Delhi,New Delhi,7918.2,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84169,23/08/2026,West Bengal,Durgapur,13858.2,facebook,,direct,,,zoho sales iq
+#84170,23/08/2026,Delhi,New Delhi,3149.1,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#84171,23/08/2026,Kerala,Eranakulam,6087.6,google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#84172,23/08/2026,Maharashtra,Mumbai,25469.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84173,23/08/2026,Tamil Nadu,Chennai,3419.1,google,ShoppingIndexdecor_23361314596,razorpay,,,shopify
+#84174,23/08/2026,West Bengal,Kolkata,25196.4,google,,google,,,shopify
+#84201,24/08/2026,Karnataka,Bengaluru,5939.1,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84176,24/08/2026,Karnataka,"Sarjapura, Bangalore",7739.1,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84207,24/08/2026,Telangana,Kokapet,8547.3,direct,,direct,,,zoho sales iq
+#84181,24/08/2026,Maharashtra,Pune waked,24897,direct,,direct,,,zoho sales iq
+#84190,24/08/2026,Chhattisgarh,Raipur,26199,pmaxlightingnc30092023,google,direct,,,zoho sales iq
+#84209,24/08/2026,Goa,Goa,15748.2,google,pmaxlightingnc,google,pmaxlightingnc,,zoho sales iq
+#84206,24/08/2026,Tamil Nadu,Chennai,10078.2,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84182,24/08/2026,West Bengal,Durgapur,7799,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84180,24/08/2026,Karnataka,Bengaluru,6569.1,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84192,24/08/2026,Rajasthan,Ajmer,9898.2,google,Search_Brand_18098202173,direct,,,shopify
+#84202,24/08/2026,Karnataka,Bengaluru,5849.1,direct,,google,LightingShopping_21285710791,,shopify
+#84195,24/08/2026,Karnataka,Bangalore,4498.2,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,shopify
+#84215,24/08/2026,Himachal Pradesh,Dharamshala,5598,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84189,24/08/2026,West Bengal,kolkata,7198,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84175,24/08/2026,Jammu and Kashmir,Jammu,5849.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84184,24/08/2026,Karnataka,Bengaluru,4499.1,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#84198,24/08/2026,Kerala,THRISSUR DISTRICT,15299.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84196,24/08/2026,Maharashtra,Nagpur,5799,,,,,,zoho sales iq
+#84183,24/08/2026,Jammu and Kashmir,Srinagar,14998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84194,24/08/2026,Haryana,Karnal,25555.5,google,DecorShopping,google,DecorShopping,,shopify
+#84216,24/08/2026,Meghalaya,Tura,3799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84214,24/08/2026,Goa,Vodlemol Cacora,65793,instagram,,instagram,,,shopify
+#84211,24/08/2026,Telangana,Hyderabad,11798,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#84197,24/08/2026,Karnataka,Bangalore,4499.1,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84179,24/08/2026,Rajasthan,Jaipur,10312.82,Tata,,Tata,,,zoho sales iq
+#84205,24/08/2026,Maharashtra,"Amravati,",8498.3,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84208,24/08/2026,West Bengal,Newtown Kolkata,15384.15,facebook,081226_prospecting_decor&lighting_cbo_sales_evergreen_120246622751400384,facebook,081226_prospecting_decor&lighting_cbo_sales_evergreen_120246622751400384,,zoho sales iq
+#84187,24/08/2026,Uttarakhand,Dehradun,7370,nykaa,,nykaa,,,zoho sales iq
+#84199,24/08/2026,Uttar Pradesh,Greater Noida,45433.6,facebook,041126_advantage,facebook,041126_advantage,,zoho sales iq
+#84193,24/08/2026,Gujarat,Ahmedabad,4588.3,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#84203,24/08/2026,Chandigarh,Chandigarh,3738.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84186,24/08/2026,Uttarakhand,Dehradun,7937,nykaa,,nykaa,,,zoho sales iq
+#84191,24/08/2026,Karnataka,Bangalore,22316,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84188,24/08/2026,Haryana,Gurugram,8638.2,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,zoho sales iq
+#84212,24/08/2026,Odisha,Bhubaneswar,8199,facebook,,facebook,,,zoho sales iq
+#84200,24/08/2026,Tamil Nadu,"KANNIYAKUMARI,",6999,Amazon,,Amazon,,,zoho sales iq
+#84210,24/08/2026,Maharashtra,Mumbai,4249.15,facebook,,facebook,,,zoho sales iq
+#84204,24/08/2026,Karnataka,Bengaluru,12577.45,google,,google,,,zoho sales iq
+#84213,24/08/2026,Odisha,Bhubaneswar,8199,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84177,24/08/2026,Haryana,Gurugram,1801.1,google,,google,,,zoho sales iq
+#84224,25/08/2026,Delhi,Delhi,10889.1,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84242,25/08/2026,Punjab,Nabha,3419.1,google,ShoppingIndexdecor_23361314596,direct,,,zoho sales iq
+#84222,25/08/2026,Telangana,Hyderabad,6479.1,direct,,direct,,,zoho sales iq
+#84241,25/08/2026,Gujarat,Ahmedabad,6299.1,google,LightingSearchaimax,direct,,,zoho sales iq
+#84230,25/08/2026,Goa,Goa,16998,direct,,direct,,,zoho sales iq
+#84237,25/08/2026,Maharashtra,Mumbai,2399,direct,,direct,,,zoho sales iq
+#84240,25/08/2026,Haryana,Gurgaon,4499.1,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#84217,25/08/2026,Goa,MARGAO,5998,direct,,direct,,,zoho sales iq
+#84239,25/08/2026,Himachal Pradesh,Shalogra,5799,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84232,25/08/2026,Maharashtra,Thane,29995,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84223,25/08/2026,Tamil Nadu,Chinna Chokikulam,9089.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84238,25/08/2026,Gujarat,"Bakrol, Anand",9539.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84225,25/08/2026,Delhi,Delhi,17819.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84220,25/08/2026,Gujarat,Ahmedabad,2359.1,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84233,25/08/2026,Maharashtra,Dhule,15299.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84218,25/08/2026,Haryana,Gurgaon,8798,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84235,25/08/2026,Maharashtra,Thane,6098,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84234,25/08/2026,Tamil Nadu,Greater Chennai,14616.6,direct,,direct,,,zoho sales iq
+#84227,25/08/2026,Tamil Nadu,Chennai,15300,,,,,,zoho sales iq
+#84226,25/08/2026,Haryana,Faridabad,7999.2,direct,,direct,,,zoho sales iq
+#84219,25/08/2026,Chhattisgarh,Raipur,1999.1,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,zoho sales iq
+#84221,25/08/2026,Tamil Nadu,Chembarambakkam,22269.15,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,,zoho sales iq
+#84264,26/08/2026,Maharashtra,Vasai-Virar,3149.1,google,LightingShopping_21285710791,direct,,,shopify
+#84273,26/08/2026,Maharashtra,Pune,5849.1,google,Search_Brand_18098202173,direct,,,shopify
+#84274,26/08/2026,Gujarat,Ahmadabad,18599,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84260,26/08/2026,Maharashtra,Pune,14448.3,,,,,,zoho sales iq
+#84261,26/08/2026,Punjab,Ludhiana,39997,google,pmaxlightingnc_16828666790,google,pmaxlightingnc_16828666790,,shopify
+#84248,26/08/2026,Karnataka,dharwad,14397,google,BrandShopping_23291591904,google,BrandShopping_23291591904,,shopify
+#84270,26/08/2026,Haryana,Gurugram,3599,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84253,26/08/2026,Karnataka,Bengaluru,18897.3,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84245,26/08/2026,Maharashtra,Mumbai,25469.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84271,26/08/2026,Delhi,New Delhi,6998,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84259,26/08/2026,Punjab,Ludhiana,31498,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84254,26/08/2026,Tamil Nadu,Chennai,7499,direct,,direct,,,shopify
+#84255,26/08/2026,Telangana,Hyderabad,4999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84267,26/08/2026,Bihar,Pahetiya,27495,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84269,26/08/2026,Haryana,Rewari,36521.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84244,26/08/2026,Maharashtra,Pune,5399.1,direct,,google,,,shopify
+#84247,26/08/2026,Uttar Pradesh,Kalli Pashchim,13612,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84263,26/08/2026,Karnataka,Bengaluru,5483.7,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84268,26/08/2026,Andhra Pradesh,Visakhapatnam,5299,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,instagram,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#84272,26/08/2026,Odisha,Cuttack,8899,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84252,26/08/2026,Maharashtra,Palghar,6699,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84262,26/08/2026,Maharashtra,Mumbai,5939.1,razorpay,,razorpay,,,shopify
+#84258,26/08/2026,Maharashtra,Khopoli,3419.1,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#84256,26/08/2026,Maharashtra,Mumbai,33998.3,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,zoho sales iq
+#84265,26/08/2026,Delhi,new delhi,11338.2,direct,,google,search_brand_18098202173,,zoho sales iq
+#84243,26/08/2026,Maharashtra,Mumbai,5799,facebook,,direct,,,zoho sales iq
+#84251,26/08/2026,Maharashtra,Pune,11048.3,facebook,041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384,facebook,"041126_advantage+catalog_lighting_cbo_asc_evergreen_120241545010470384
+",,zoho sales iq
+#84257,26/08/2026,Karnataka,Bengaluru,17676.6,direct,,direct,,,zoho sales iq
+#84266,26/08/2026,Chandigarh,49 sector,4177.75,Google Search Engine,,Google Search Engine,,,zoho sales iq
+#84250,26/08/2026,Maharashtra,Mumbai,5779.15,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84249,26/08/2026,Kerala,Thiruvananthapuram,15389.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
+#84275,26/08/2026,Gujarat,Ahmedabad,5799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,zoho sales iq
+#84289,27-08-2026,Karnataka,Bengaluru,6299.1,chatgpt.com,,chatgpt.com,,,shopify
+#84298,27-08-2026,Tamil Nadu,Chennai,7999,direct,,direct,,,zoho sales iq
+#84287,27-08-2026,Telangana,Hyderabad,11698.2,direct,,direct,,,zoho sales iq
+#84285,27-08-2026,Karnataka,Bangalore,17726.4,google,pmaxbleeders_20714640181,google,pmaxbleeders_20714640181,,zoho sales iq
+#84280,27-08-2026,Maharashtra,Thane,17198,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#84282,27-08-2026,West Bengal,Kolkata,4599,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84294,27-08-2026,Karnataka,Bengaluru,24296.4,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84297,27-08-2026,Maharashtra,Mumbai,10529.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84290,27-08-2026,Karnataka,"Chikkagubbi, Bengaluru",2799,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84286,27-08-2026,Andhra Pradesh,Visakhapatnam,11248.2,google,,google,,,shopify
+#84291,27-08-2026,Maharashtra,Mumbai,10598,google,PMaxLightingNC_16828666790,google,PMaxLightingNC_16828666790,,shopify
+#84296,27-08-2026,Maharashtra,Mumbai,8459.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84278,27-08-2026,Maharashtra,Nashik,5199,google,Pmaxbleeders_20714640181,google,Pmaxbleeders_20714640181,,shopify
+#84295,27-08-2026,Maharashtra,Mumbai,6119.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84279,27-08-2026,Delhi,New Delhi,10999,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84276,27-08-2026,Uttar Pradesh,Noida,7918.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84277,27-08-2026,Bihar,Patna,8998.2,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84284,27-08-2026,Delhi,"vasant vihar,",7369,Tata,,Tata,,,zoho sales iq
+#84293,27-08-2026,Tamil Nadu,Chennai,4299,google,,google,,,zoho sales iq
+#84281,27-08-2026,Gujarat,TALUKA KALOL,24308.3,,,,,,zoho sales iq
+#84292,27-08-2026,Maharashtra,Kolhapur,11558.3,direct,,direct,,,zoho sales iq
+#84283,27-08-2026,Gujarat,Unjha,943,Tata,,Tata,,,zoho sales iq
+#84288,27-08-2026,Maharashtra,MUMBAI,2749.15,,,,,,zoho sales iq
+#84317,28-08-2026,Haryana,Gurgaon,6478.2,direct,,direct,,,zoho sales iq
+#84303,28-08-2026,Karnataka,Bengaluru,25196,google,PMaxLightingNC_16828666790,direct,,,zoho sales iq
+#84316,28-08-2026,Telangana,Hyderbad,3199,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,facebook,060326_BOF_Retargeting_CBO_Sales_Warm_Hot_Evergreen_120244319824490384,,shopify
+#84318,28-08-2026,Gujarat,Ahmedabad,3499,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84306,28-08-2026,Maharashtra,Pune,11338.2,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,facebook,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84300,28-08-2026,Assam,guwahati,3079.1,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84319,28-08-2026,Karnataka,Bengaluru,9718.2,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84301,28-08-2026,Karnataka,Bangalore,3499,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84314,28-08-2026,Karnataka,Shiralakoppa,3598,google,ShoppingIndexdecor_23361314596,google,ShoppingIndexdecor_23361314596,,shopify
+#84320,28-08-2026,Haryana,Gurugram,14398.2,direct,,google,ShoppingIndexdecor_23361314596,,shopify
+#84321,28-08-2026,Telangana,Hyderabad,16377.3,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84308,28-08-2026,Rajasthan,Bhiwadi,6119.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84315,28-08-2026,Maharashtra,Pune,8998,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84313,28-08-2026,West Bengal,Kolkata,4759.15,,,,,,zoho sales iq
+#84305,28-08-2026,Punjab,Sahibzada Ajit Singh Nagar,6071.8,direct,,direct,,,zoho sales iq
+#84309,28-08-2026,Uttarakhand,Kashipur,14956.6,,,,,,zoho sales iq
+#84299,28-08-2026,Maharashtra,Mumbai,26817.3,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#84312,28-08-2026,Maharashtra,Mumbai,73500,google,search_brand_18098202173,google,search_brand_18098202173,,zoho sales iq
+#84310,28-08-2026,Jammu and Kashmir,Jammu,26516.6,direct,,direct,,,zoho sales iq
+#84307,28-08-2026,Rajasthan,Pun,21509.1,direct,,direct,,,zoho sales iq
+#84304,28-08-2026,Tamil Nadu,Chennai,14278.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84311,28-08-2026,Delhi,New Delhi,14500,facebook,,Facebook,,,zoho sales iq
+#84338,29-08-2026,Telangana,"Miyapur, Hyderabad",5039.1,google,Pmaxbleeders_20714640181,direct,,,zoho sales iq
+#84332,29-08-2026,Karnataka,Bengaluru,28795,google,,google,,,zoho sales iq
+#84327,29-08-2026,Uttarakhand,Haldwani,3059.1,direct,,direct,,,zoho sales iq
+#84328,29-08-2026,Haryana,Gurugram,9598,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84323,29-08-2026,Tamil Nadu,Nammakal,5038.2,google,LightingShopping_21285710791,direct,,,zoho sales iq
+#84330,29-08-2026,Punjab,Amritsar,19259.1,instagram,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,direct,,,zoho sales iq
+#84326,29-08-2026,West Bengal,Kolkata,16018.2,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,facebook,041126_Advantage+Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,shopify
+#84329,29-08-2026,West Bengal,Kolkata,6839.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84335,29-08-2026,Karnataka,Bengaluru,3299,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84333,29-08-2026,Haryana,Gurgaon,4859.1,google,,google,,,shopify
+#84336,29-08-2026,Haryana,Gurugram,7559.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84325,29-08-2026,Andhra Pradesh,Guntur,12499,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84324,29-08-2026,Telangana,Hyderabad,5669.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#84331,29-08-2026,Maharashtra,Mumbai,8669.15,direct,,direct,,,zoho sales iq
+#84334,29-08-2026,Punjab,Mohali,7919.2,direct,,direct,,,zoho sales iq
+#84337,29-08-2026,Punjab,Ludhiana,76678.5,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84341,30-08-2026,Karnataka,Bengaluru,12959.1,direct,,direct,,,zoho sales iq
+#84345,30-08-2026,Gujarat,Ahmedabad,3149.1,google,LightingSearchaimax,google,LightingSearchaimax,,zoho sales iq
+#84356,30-08-2026,Haryana,"Gurugram, Nurpur Jharsa",13799,google,Search_Brand_18098202173,direct,,,zoho sales iq
+#84349,30-08-2026,Assam,Guwahati,8818.2,direct,,direct,,,zoho sales iq
+#84343,30-08-2026,Maharashtra,Pune,15659.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84359,30-08-2026,Karnataka,Bengaluru,4049.1,google,,google,,,shopify
+#84351,30-08-2026,Kerala,Cochin,4499.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,shopify
+#84352,30-08-2026,Maharashtra,Mumbai,4859.1,google,,google,,,shopify
+#84348,30-08-2026,Maharashtra,Mumbai,5489.1,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,shopify
+#84339,30-08-2026,Tamil Nadu,Chennai,6198,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,instagram,081226_Prospecting_Decor&Lighting_CBO_Sales_Evergreen_120246622751400384,,shopify
+#84340,30-08-2026,Tamil Nadu,Chennai,6799,google,shoppingindexdecor_23361314596,google,shoppingindexdecor_23361314596,,shopify
+#84358,30-08-2026,Haryana,Gurugram,3806.1,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,instagram,041126_Advantage Catalog_Lighting_CBO_ASC_Evergreen_120241545010470384,,zoho sales iq
+#84346,30-08-2026,Punjab,Mohali,8238.4,direct,,direct,,,zoho sales iq
+#84357,30-08-2026,Maharashtra,Navi Mumbai,8369.1,google,Search_Brand_18098202173,google,Search_Brand_18098202173,,zoho sales iq
+#84350,30-08-2026,Punjab,Amritsar,16798.4,direct,,direct,,,zoho sales iq
+#84354,30-08-2026,West Bengal,Howrah,6799.15,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84342,30-08-2026,Karnataka,Bangalore,5098.3,google,lightingshopping_21285710791,google,lightingshopping_21285710791,,zoho sales iq
+#84347,30-08-2026,Odisha,Bhubaneswar,13938.3,direct,,direct,,,zoho sales iq
+#84353,30-08-2026,Maharashtra,Mumbai,2749.15,direct,,direct,,,zoho sales iq
+#84344,30-08-2026,Punjab,Mohali,38100,direct,,direct,,,zoho sales iq
+#84355,30-08-2026,Tamil Nadu,Chennai,12198,google,LightingShopping_21285710791,google,LightingShopping_21285710791,,zoho sales iq
