@@ -575,7 +575,7 @@ def classify_funnel(data, metric="Orders", high_is_bottom=True, funnel_col=None)
 
 
 # ---------- Header ----------
-st.title("Inhouse attribution")
+st.title("Inhouse Attribution")
 st.caption("Order intelligence • attribution • geography • data quality — built on the full source dataset")
 
 orders = len(f)
