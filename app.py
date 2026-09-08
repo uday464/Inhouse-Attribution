@@ -89,6 +89,16 @@ def _default_sheet_url():
         return ""
 
 
+def _default_session_sheet_url():
+    # Same idea as _default_sheet_url() above, but for the session export:
+    # put session_data_source_url = "https://docs.google.com/.../pub?output=csv"
+    # in .streamlit/secrets.toml to set a permanent default.
+    try:
+        return st.secrets.get("session_data_source_url", "")
+    except Exception:
+        return ""
+
+
 @st.cache_data(ttl=600)
 def load_data(source, _refresh_bucket):
     d = pd.read_csv(source)
@@ -200,7 +210,7 @@ def standardize_campaign_series(series):
 
 
 @st.cache_data(ttl=600)
-def load_session_data(source):
+def load_session_data(source, _refresh_bucket=0):
     s = pd.read_csv(source)
     s.columns = [str(c).strip() for c in s.columns]
     required = {
@@ -358,13 +368,44 @@ if sheet_url.strip() and HAS_AUTOREFRESH:
 
 with st.sidebar.expander("📊 Web-session funnel source", expanded=False):
     st.caption("Separate from the order dataset. Expected columns: landing page, UTM campaign, sessions, carts, checkout reached, completed checkout.")
+    st.caption(
+        "For a live source everyone viewing the app shares: in Google Sheets, "
+        "File → Share → Publish to web → select the sheet tab → format **CSV** → "
+        "Publish. Paste the link below."
+    )
+    session_sheet_url = st.text_input(
+        "Google Sheet CSV link", value=_default_session_sheet_url(),
+        placeholder="https://docs.google.com/.../pub?output=csv", key="session_sheet_url",
+    )
+    session_refresh_secs = st.slider("Auto-refresh every (seconds)", 15, 300, 60, step=15, key="session_refresh_secs")
+    if not HAS_AUTOREFRESH:
+        st.caption("Add `streamlit-autorefresh` to requirements.txt for hands-free live refresh; otherwise use the button below.")
+    if st.button("Refresh now", key="session_refresh_now"):
+        st.cache_data.clear()
+        st.rerun()
+    st.divider()
+    st.caption("Or upload a one-off file instead — this only replaces what you see in your own browser, not what other users see.")
     session_upload = st.file_uploader("Session CSV", type=["csv"], key="session_csv_upload")
-    st.caption("The bundled session export is loaded by default; uploading here replaces only this separate analysis.")
+    st.caption("The bundled session export is loaded by default when neither of the above is set.")
+
+if session_sheet_url.strip() and HAS_AUTOREFRESH:
+    st_autorefresh(interval=session_refresh_secs * 1000, key="session_live_data_autorefresh")
 
 data_source = sheet_url.strip() if sheet_url.strip() else DATA_FILE
 refresh_bucket = int(time.time() // refresh_secs)
 df = load_data(data_source, refresh_bucket)
-if session_upload is not None:
+if session_sheet_url.strip():
+    try:
+        session_refresh_bucket = int(time.time() // session_refresh_secs)
+        session_df = load_session_data(session_sheet_url.strip(), session_refresh_bucket)
+        session_source_label = "Live Google Sheet"
+        session_source_path = session_sheet_url.strip()
+    except Exception as e:
+        session_df = None
+        session_source_label = "Invalid live session sheet link"
+        session_source_path = ""
+        st.sidebar.error(str(e))
+elif session_upload is not None:
     try:
         session_df = load_session_data(session_upload)
         session_source_label = session_upload.name
@@ -382,6 +423,8 @@ if isinstance(data_source, str):
     st.sidebar.caption(f"Live source connected · refreshing every {refresh_secs}s")
 else:
     st.sidebar.caption("Using local data/orders.csv")
+if session_sheet_url.strip():
+    st.sidebar.caption(f"Session source: live Google Sheet · refreshing every {session_refresh_secs}s")
 
 df["First Channel"] = df["First Channel Raw"].map(meta_group)
 df["Last Channel"] = df["Last Channel Raw"].map(meta_group)
