@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+import re
 import time
 from pathlib import Path
 
@@ -156,16 +157,44 @@ def normalize_campaign_name(value):
     return cleaned.title()
 
 
+# Ad platforms (Google/Meta/etc.) commonly auto-append a long numeric campaign or
+# ad-set ID to the campaign name on export, e.g. "LightingSearchAiMax_15393315826".
+# That numeric tail also varies between exports (and sometimes gets truncated by a
+# digit), so matching on the raw string alone silently splits one campaign's
+# performance across several rows. Stripping any trailing separator + long digit
+# run before grouping fixes this generically — it isn't a lookup list of known
+# campaigns, so it keeps working automatically for campaign names added later.
+# Short numeric fragments (a year, a discount %, etc.) are left alone since those
+# are usually part of the campaign's actual name rather than a platform ID.
+_TRAILING_CAMPAIGN_ID_RE = re.compile(r"[\s_\-+]*\d{6,}\s*$")
+
+
+def strip_trailing_campaign_id(raw):
+    text = raw
+    while True:
+        stripped = _TRAILING_CAMPAIGN_ID_RE.sub("", text)
+        if stripped == text:
+            break
+        text = stripped
+    text = text.strip()
+    # Never blank out a campaign whose name IS just a numeric ID with nothing else.
+    return text if text else raw
+
+
 def standardize_campaign_series(series):
     raw = series.fillna("Missing").astype(str).str.strip().replace("", "Missing")
-    # Canonical key removes common separators and case, then the most frequent raw value
-    # is rendered in a readable standardized form.
-    key = (raw.str.lower().str.replace(r"[+_\-|]", "", regex=True).str.replace(r"\s+", "", regex=True))
+    # Base value has any trailing platform-ID number removed (see
+    # strip_trailing_campaign_id above) so e.g. "LightingSearchAiMax" and
+    # "LightingSearchAiMax_15393315826" collapse to the same campaign.
+    base = raw.where(raw == "Missing", raw.apply(strip_trailing_campaign_id))
+    # Canonical key removes common separators and case, then the most frequent base
+    # value is rendered in a readable standardized form.
+    key = (base.str.lower().str.replace(r"[+_\-|]", "", regex=True).str.replace(r"\s+", "", regex=True))
     named = raw[raw != "Missing"]
     display_map = {}
     if len(named):
-        frame = pd.DataFrame({"raw": named, "key": key.loc[named.index]})
-        most_common = frame.groupby("key")["raw"].agg(lambda x: x.value_counts().idxmax())
+        frame = pd.DataFrame({"base": base.loc[named.index], "key": key.loc[named.index]})
+        most_common = frame.groupby("key")["base"].agg(lambda x: x.value_counts().idxmax())
         display_map = {k: normalize_campaign_name(v) for k, v in most_common.items()}
     return key.map(display_map).fillna("Missing")
 
@@ -202,7 +231,6 @@ def load_session_data(source):
 def infer_session_window(path):
     # The supplied export filename contains its reporting window. This is used only
     # for the light order/session comparison and never changes either source dataset.
-    import re
     name = Path(str(path)).name
     m = re.search(r"(\d{4}-\d{2}-\d{2}).*?(\d{4}-\d{2}-\d{2})", name)
     if not m:
@@ -363,10 +391,14 @@ df["Is Paid"] = df["UTM Campaign"] != "Missing"
 df["Has Notes"] = df["Notes"] != ""
 
 # Campaign name normalization: the sheet has case-only duplicates
-# ("LightingShopping_..." vs "lightingshopping_...") that silently fragment
-# a single campaign's performance into two rows. Group by a lowercased key
-# and display the most common original casing, so campaign-level reporting
-# (below, and the funnel view) isn't split across case variants.
+# ("LightingShopping_..." vs "lightingshopping_...") and duplicates that only
+# differ by an auto-appended platform ID ("LightingSearchAiMax" vs
+# "LightingSearchAiMax_15393315826") that silently fragment a single campaign's
+# performance into several rows. standardize_campaign_series groups these by a
+# normalized key and displays the most common readable form, so campaign-level
+# reporting everywhere in the app (filters, funnel view, insights, session
+# funnel) isn't split across case/ID variants — including for new campaigns
+# added later, since the ID-stripping is pattern-based, not a lookup list.
 df["Campaign"] = standardize_campaign_series(df["UTM Campaign"])
 
 # Optional override: if the sheet already has a real funnel-stage column
@@ -398,7 +430,7 @@ filter_col("Channel — individual", "Last Channel Detail")
 filter_col("First-click channel", "First Channel")
 filter_col("Region", "Region")
 filter_col("City", "City")
-filter_col("UTM campaign", "UTM Campaign")
+filter_col("UTM campaign", "Campaign")
 filter_col("UTM source", "UTM Source")
 filter_col("UTM medium", "UTM Medium")
 
@@ -763,11 +795,11 @@ with tabs[4]:
             pr = preg.iloc[0]
             insights.append(f"**Top geographic market (paid revenue):** {pr['Region']} leads on UTM-tracked paid campaign revenue with {money(pr['Sales'])} from {int(pr['Orders']):,} orders.")
 
-    camp = group(f, "UTM Campaign")
-    camp = camp[camp["UTM Campaign"] != "Missing"]
+    camp = group(f, "Campaign")
+    camp = camp[camp["Campaign"] != "Missing"]
     if len(camp):
         c = camp.iloc[0]
-        insights.append(f"**Best tracked campaign:** {c['UTM Campaign']} generated {money(c['Sales'])} from {int(c['Orders']):,} orders.")
+        insights.append(f"**Best tracked campaign:** {c['Campaign']} generated {money(c['Sales'])} from {int(c['Orders']):,} orders.")
 
     utm_cov = pct((f["UTM Campaign"] != "Missing").sum(), orders)
     insights.append(f"**UTM coverage:** {utm_cov:.1f}% of orders carry a UTM campaign tag; the rest rely on channel-level attribution only.")
