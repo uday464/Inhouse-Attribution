@@ -13,7 +13,7 @@ try:
 except ImportError:
     HAS_AUTOREFRESH = False
 
-st.set_page_config(page_title="Daily Orders Command Center", page_icon="◈", layout="wide")
+st.set_page_config(page_title="Inhouse Attribution", page_icon="◈", layout="wide")
 
 # ---------- Theme ----------
 # Keep the whole app on one light surface (main area + sidebar) so widget
